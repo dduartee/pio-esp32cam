@@ -1,0 +1,3 @@
+[submodule "lib/tinyml-cam"]
+	path = lib/tinyml-cam
+	url = https://github.com/dduartee/tinyml-cam
